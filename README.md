@@ -1,2 +1,2 @@
-# oibsip_taskno.1
+# oibsip_taskno1
 Oasis Infobyte internship - Level 1 Task 1
